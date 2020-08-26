@@ -1,10 +1,10 @@
 {
-  "test": {
-    "status": "success",
-    "message": "Please Try again",
-  },
   "test_update": {
     "status": "success",
-    "message": "Succesfully updated",
+    "message": "Successfully updated."
+  },
+  "test": {
+    "status": "success",
+    "message": "Successfully Tested"
   }
 }
