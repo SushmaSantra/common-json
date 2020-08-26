@@ -3,8 +3,8 @@
     "status": "success",
     "message": "Successfully updated."
   },
-  "test": {
-    "status": "success",
+  "cashflow": {
+    "status": "unsuccess",
     "message": "Successfully Tested"
   }
 }
